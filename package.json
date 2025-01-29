@@ -1,0 +1,22 @@
+{
+  "name": "expressgiris",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "app.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwgules/expressGiris.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "mwgules",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwgules/expressGiris/issues"
+  },
+  "homepage": "https://github.com/mwgules/expressGiris#readme"
+}
